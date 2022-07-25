@@ -3,12 +3,12 @@ public class Selam {
     String world = "millet";
     public String selamSoyle(String kime) {
         String cumle;
-        if (kime != ""){
+        if (kime != "")
             cumle = "Selam" + kime + " :)";
-        }
-        else {
+
+        else
             cumle = "Selam " + world + " :)";
-        }
+
 return cumle;
     }
 

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="ı see my code in console">
-      <change afterPath="$PROJECT_DIR$/src/Selam.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Selam class created">
+      <change afterPath="$PROJECT_DIR$/src/SelamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Selam">
+  <component name="RunManager" selected="Application.SelamTest">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="Second-Java-Project" />
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Selam" />
         <item itemvalue="Application.SelamTest" />
+        <item itemvalue="Application.Selam" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658594782256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Selam class created">
+      <created>1658696467856</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658696467856</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +164,7 @@
     <MESSAGE value="First project structure created" />
     <MESSAGE value="class created" />
     <MESSAGE value="ı see my code in console" />
-    <option name="LAST_COMMIT_MESSAGE" value="ı see my code in console" />
+    <MESSAGE value="Selam class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selam class created" />
   </component>
 </project>
