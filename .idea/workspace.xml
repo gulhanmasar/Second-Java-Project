@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="SelamTest  class created">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarModel.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="CarClass created">
+      <change afterPath="$PROJECT_DIR$/src/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeirdCommnets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelamTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarModel">
+  <component name="RunManager" selected="Application.WeirdCommnets">
     <configuration name="CarModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarModel" />
       <module name="Second-Java-Project" />
@@ -90,10 +91,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeirdCommnets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeirdCommnets" />
+      <module name="Second-Java-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarModel" />
+        <item itemvalue="Application.WeirdCommnets" />
         <item itemvalue="Application.SelamTest" />
+        <item itemvalue="Application.CarModel" />
         <item itemvalue="Application.Selam" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -150,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658759898152</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="CarClass created">
+      <created>1658865652873</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658865652873</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +198,7 @@
     <MESSAGE value="ı see my code in console" />
     <MESSAGE value="Selam class created" />
     <MESSAGE value="SelamTest  class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="SelamTest  class created" />
+    <MESSAGE value="CarClass created" />
+    <option name="LAST_COMMIT_MESSAGE" value="CarClass created" />
   </component>
 </project>

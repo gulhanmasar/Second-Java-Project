@@ -11,9 +11,9 @@ public class SelamTest {
         System.out.println("World: "+ nesne.world);
 
         cevap = nesne.selamSoyle("");
-        System.out.println(cevap);
+       System.out.println(cevap);
 
-        System.out.println(nesne.world);
+
 
     }
 }
