@@ -13,5 +13,7 @@ public class SelamTest {
         cevap = nesne.selamSoyle("");
         System.out.println(cevap);
 
+        System.out.println(nesne.world);
+
     }
 }
