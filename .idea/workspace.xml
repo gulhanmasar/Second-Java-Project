@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Working on Comments">
-      <change afterPath="$PROJECT_DIR$/src/Naming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Naming class created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658958188900</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Naming class created">
+      <created>1659020057406</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659020057406</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +209,7 @@
     <MESSAGE value="SelamTest  class created" />
     <MESSAGE value="CarClass created" />
     <MESSAGE value="Working on Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on Comments" />
+    <MESSAGE value="Naming class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Naming class created" />
   </component>
 </project>

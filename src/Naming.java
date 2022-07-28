@@ -10,17 +10,17 @@ public class Naming {
      
      }
 
+    private void aSimpleMethod(int i, int i1) {
+        System.out.println("in aSimpleMethod(int aParameter, int anotherParameter)");
+    }
+
     private void anotherSimpleMethod(int i, int i1, boolean b) {
-        System.out.println("in anotherSimpleMethod ( int aParameter, long anotherParameter,false)" );
+        System.out.println("in anotherSimpleMethod(int aParameter, long anotherParameter, boolean yetAnotherParameter)");
     }
 
 
-    public void aSimpleMethod(int i, int i1) {
-         System.out.println("in aSimpleMethod(int aParameter , int anotherParameter");
-         
-
-
-                    
-
-    }
 }
+
+
+
+
