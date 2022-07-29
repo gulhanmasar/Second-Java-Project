@@ -7,20 +7,16 @@ public class Naming {
      namingDemo.aDoubleVariable =0.35;
      namingDemo.aSimpleMethod(2,5);
      namingDemo.anotherSimpleMethod(8,4,false);
-     
      }
 
-    private void aSimpleMethod(int i, int i1) {
+    public void aSimpleMethod(int aParameter, int anotherParameter){
         System.out.println("in aSimpleMethod(int aParameter, int anotherParameter)");
     }
 
-    private void anotherSimpleMethod(int i, int i1, boolean b) {
+    public void anotherSimpleMethod(int aParameter, long anotherParameter, boolean yetAnotherParameter){
         System.out.println("in anotherSimpleMethod(int aParameter, long anotherParameter, boolean yetAnotherParameter)");
     }
-
-
 }
-
 
 
 
