@@ -63,16 +63,9 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise3">
+  <component name="RunManager" selected="Application.Numbers">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
-      <module name="Second-Java-Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comments" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numbers" />
+      <module name="Second-Java-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise" />
         <item itemvalue="Application.Blocks" />
-        <item itemvalue="Application.Comments" />
       </list>
     </recent_temporary>
   </component>
