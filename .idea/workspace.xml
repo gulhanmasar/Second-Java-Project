@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Naming and if else statements">
-      <change beforePath="$PROJECT_DIR$/src/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeirdCommnets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeirdCommnets.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Comments working">
+      <change beforePath="$PROJECT_DIR$/src/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Comments">
+  <component name="RunManager" selected="Application.Blocks">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
       <module name="Second-Java-Project" />
@@ -98,9 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.Comments" />
         <item itemvalue="Application.Naming" />
-        <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.ValuesOfExpressions" />
         <item itemvalue="Application.WeirdCommnets" />
       </list>
@@ -213,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659262061952</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Comments working">
+      <created>1659263051855</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659263051855</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +257,7 @@
     <MESSAGE value="ValuesOfExpressions class created" />
     <MESSAGE value="Blocks class created" />
     <MESSAGE value="Naming and if else statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Naming and if else statements" />
+    <MESSAGE value="Comments working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments working" />
   </component>
 </project>

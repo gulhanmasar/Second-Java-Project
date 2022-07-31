@@ -10,7 +10,8 @@ public class Blocks {
 
     // Initialization block
     {
-        //  b = true;
+
+         // b = true;
             l = 17L;
 
     }
