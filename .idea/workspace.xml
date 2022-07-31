@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Comments working">
+      <change afterPath="$PROJECT_DIR$/src/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/casper/IdeaProjects",
+    "last_opened_file_path": "C:/Users/casper/IdeaProjects/Second-Java-Project",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -59,7 +63,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Blocks">
+  <component name="RunManager" selected="Application.Exercise3">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
       <module name="Second-Java-Project" />
@@ -74,22 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Naming" />
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValuesOfExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValuesOfExpressions" />
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeirdCommnets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeirdCommnets" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise3" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise" />
         <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.Comments" />
-        <item itemvalue="Application.Naming" />
-        <item itemvalue="Application.ValuesOfExpressions" />
-        <item itemvalue="Application.WeirdCommnets" />
       </list>
     </recent_temporary>
   </component>
@@ -266,5 +270,16 @@
     <MESSAGE value="Naming and if else statements" />
     <MESSAGE value="Comments working" />
     <option name="LAST_COMMIT_MESSAGE" value="Comments working" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
