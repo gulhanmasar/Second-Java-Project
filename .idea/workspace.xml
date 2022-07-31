@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="ValuesOfExpressions class created">
-      <change afterPath="$PROJECT_DIR$/src/Blocks.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Blocks class created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Naming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Naming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/casper/IdeaProjects/Second-Java-Project&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/casper/Desktop/javaturk",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project\src" />
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Blocks">
+  <component name="RunManager" selected="Application.Naming">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
       <module name="Second-Java-Project" />
@@ -98,9 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Naming" />
         <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.ValuesOfExpressions" />
-        <item itemvalue="Application.Naming" />
         <item itemvalue="Application.WeirdCommnets" />
         <item itemvalue="Application.SelamTest" />
       </list>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659092494288</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Blocks class created">
+      <created>1659098675778</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659098675778</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +242,7 @@
     <MESSAGE value="Working on Comments" />
     <MESSAGE value="Naming class created" />
     <MESSAGE value="ValuesOfExpressions class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="ValuesOfExpressions class created" />
+    <MESSAGE value="Blocks class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blocks class created" />
   </component>
 </project>
