@@ -8,6 +8,13 @@ public class Mathematic {
         }
         System.out.println("Cevap=" + sonuc);
 
+        int sayi= 100;
+        int toplam= 0;
+          for (int i = 1; i<= sayi; ++i)
+          {
+              toplam += i;
+          }
+System.out.println("1-1oo arasındaki sayıların toplamı =" + toplam);
     }
 
 }

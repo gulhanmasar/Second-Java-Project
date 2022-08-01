@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Comments working">
-      <change afterPath="$PROJECT_DIR$/src/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathematic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathematic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/casper/IdeaProjects/Second-Java-Project",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/casper/IdeaProjects/Second-Java-Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project\src" />
@@ -64,8 +62,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Mathematic">
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise2" />
+    <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Blocks" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,10 +100,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Mathematic" />
+        <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.Numbers2" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Exercise3" />
-        <item itemvalue="Application.Exercise2" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +228,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659263541889</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Numbers Working">
+      <created>1659281764479</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659281764479</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Numbers Working">
+      <created>1659196039316</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1659196039316</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Numbers Working">
+      <created>1658679307778</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658679307778</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +288,8 @@
     <MESSAGE value="Blocks class created" />
     <MESSAGE value="Naming and if else statements" />
     <MESSAGE value="Comments working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comments working" />
+    <MESSAGE value="Numbers Working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Numbers Working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
