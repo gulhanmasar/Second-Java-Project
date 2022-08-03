@@ -1,13 +1,26 @@
-public class Car {
-     String brand = "porshe";
-     String model ="cayen";
-     int year = 2019;
-     int maxAccelerate;
+public class Car{
+     public String make;
+     public String model;
+     public String year;
+     public int speed;
+     public int distance;
 
-
-     public int getMinAcc (int maxAccelerate){
-         return maxAccelerate -160;
+     public double go(int newDistance){
+          distance += newDistance;
+          double period = (double)newDistance / speed;
+          return period;
      }
 
+     public void accelerate(int newSpeed){
+          speed = newSpeed;
+     }
+     public void stop(){
+
+          speed = 0;
+     }
+     public String getInfo(){
+          String info = "Car Info :" + year + " " + make + " " + model +" " + ". Distnace:" + distance + "km.and traveling at " + speed + "kmph.";
+          return info;
+     }
 }
 
