@@ -9,7 +9,8 @@ public class Exercise3 {
         float sayi3 = 2.4f;
         float sayi4 = 3.4f;
         float toplam =( sayi3 + sayi4 );
-        System.out.println("Sayiların Toplami:"  + toplam);
+        int sayi5 = 5;
+        System.out.println("Sayiların Toplami:"  + toplam + sayi5);
 
     }
 
