@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathematic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathematic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarTest">
+  <component name="RunManager" selected="Application.Mathematic">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
       <module name="Second-Java-Project" />
@@ -98,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.Mathematic" />
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.Numbers2" />
         <item itemvalue="Application.Numbers" />
