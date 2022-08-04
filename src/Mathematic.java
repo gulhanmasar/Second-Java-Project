@@ -6,7 +6,7 @@ public class Mathematic {
         {
             sonuc *=taban;
         }
-        System.out.println("Cevap=" + sonuc);
+        System.out.println("Cevaplar=" + sonuc);
 
         int sayi= 100;
         int toplam= 0;
