@@ -1,21 +1,16 @@
 public class Mathematic {
 
+    public class Try{
 
-    int number;
-    String name;
-    public Mathematic(int num, String ad){
-
-        this.name = ad;
-        this.number = num;
+        int sayi = 5;
 
     }
 
+    public void main(String[] args){
 
-    public static void main(String[] args){
+       Try try1 = new Try();
+        try1.sayi = 6;
 
-        Mathematic ma = new Mathematic(1, "gulhan");
-
-        System.out.println("My name is " + ma.name);
 
         int taban =3 , kuvvet =4;
         long sonuc =1;
@@ -32,7 +27,6 @@ public class Mathematic {
               toplam += i;
           }
 System.out.println("1-1oo arasındaki sayıların toplamı =" + toplam);
-
 
     }
 

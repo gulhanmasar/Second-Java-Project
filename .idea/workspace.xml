@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Working">
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Working with Constructor in class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Mathematic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathematic.java" afterDir="false" />
     </list>
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659645339533</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Working with Constructor in class">
+      <created>1659646937696</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1659646937696</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +319,8 @@
     <MESSAGE value="Numbers Working" />
     <MESSAGE value="Mathematic" />
     <MESSAGE value="Working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working" />
+    <MESSAGE value="Working with Constructor in class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Constructor in class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
