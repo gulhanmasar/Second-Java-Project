@@ -1,4 +1,4 @@
-public class CarPrimitivesTest {
+ public class CarPrimitivesTest {
     public static void main(String[] args) {
         CarPrimitives car1 = new CarPrimitives();
         System.out.println("When the car stands still.");
@@ -43,6 +43,7 @@ public class CarPrimitivesTest {
 
 
 
+
 		//car2 = null;
     //car2.accelerate(250);
 	//if(car2 != null)
@@ -59,7 +60,13 @@ public class CarPrimitivesTest {
 
 
 
+    }
+
+
+
+
+
 
     }
 
-}
+
