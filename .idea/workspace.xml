@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="VarDemo class created">
-      <change afterPath="$PROJECT_DIR$/src/ScopeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WideningConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,16 +61,9 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScopeDemo">
+  <component name="RunManager" selected="Application.WideningConversion">
     <configuration name="CarPrimitivesReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarPrimitivesReference" />
-      <module name="Second-Java-Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarPrimitivesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarPrimitivesTest" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,13 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WideningConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WideningConversion" />
+      <module name="Second-Java-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WideningConversion" />
         <item itemvalue="Application.ScopeDemo" />
         <item itemvalue="Application.VarDemo" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.CarPrimitivesReference" />
-        <item itemvalue="Application.CarPrimitivesTest" />
       </list>
     </recent_temporary>
   </component>
