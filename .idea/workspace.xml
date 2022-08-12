@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="VarDemo class created">
-      <change afterPath="$PROJECT_DIR$/src/WideningConversion.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="WideningConversion class created">
+      <change afterPath="$PROJECT_DIR$/src/FinalVariables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +61,9 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WideningConversion">
-    <configuration name="CarPrimitivesReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarPrimitivesReference" />
+  <component name="RunManager" selected="Application.FinalVariables">
+    <configuration name="FinalVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalVariables" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalVariables" />
         <item itemvalue="Application.WideningConversion" />
         <item itemvalue="Application.ScopeDemo" />
         <item itemvalue="Application.VarDemo" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.CarPrimitivesReference" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660059545271</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="WideningConversion class created">
+      <created>1660137737823</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1660137737823</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +374,8 @@
     <MESSAGE value="CarPrimitivesReference created" />
     <MESSAGE value="Variables class created" />
     <MESSAGE value="VarDemo class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="VarDemo class created" />
+    <MESSAGE value="WideningConversion class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="WideningConversion class created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
