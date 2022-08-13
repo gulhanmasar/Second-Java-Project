@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="ConstantVariable class created">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOperator.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="AssignmentOperator class created">
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnaryOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,14 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssignmentOperator">
+  <component name="RunManager" selected="Application.UnaryOperators">
+    <configuration name="ArithmeticPromotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticPromotion" />
+      <module name="Second-Java-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AssignmentOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssignmentOperator" />
       <module name="Second-Java-Project" />
@@ -83,15 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScopeDemo" />
-      <module name="Second-Java-Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WideningConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WideningConversion" />
+    <configuration name="UnaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnaryOperators" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnaryOperators" />
+        <item itemvalue="Application.ArithmeticPromotion" />
         <item itemvalue="Application.AssignmentOperator" />
         <item itemvalue="Application.ConstantVariable" />
         <item itemvalue="Application.FinalVariables" />
-        <item itemvalue="Application.WideningConversion" />
-        <item itemvalue="Application.ScopeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660303355364</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="AssignmentOperator class created">
+      <created>1660395743821</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1660395743821</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -391,7 +399,8 @@
     <MESSAGE value="WideningConversion class created" />
     <MESSAGE value="FinalVariables class created" />
     <MESSAGE value="ConstantVariable class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConstantVariable class created" />
+    <MESSAGE value="AssignmentOperator class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="AssignmentOperator class created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
