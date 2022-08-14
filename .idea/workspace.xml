@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Unary Opertors Arithmetic Pormotion class created." />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="UnaryLogicalOperator class created.">
+      <change afterPath="$PROJECT_DIR$/src/RelationalOperator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnaryLogicalOperator">
+  <component name="RunManager" selected="Application.RelationalOperator">
     <configuration name="ArithmeticPromotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticPromotion" />
       <module name="Second-Java-Project" />
@@ -73,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstantVariable" />
+    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelationalOperator" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RelationalOperator" />
         <item itemvalue="Application.UnaryLogicalOperator" />
         <item itemvalue="Application.UnaryOperators" />
         <item itemvalue="Application.ArithmeticPromotion" />
         <item itemvalue="Application.AssignmentOperator" />
-        <item itemvalue="Application.ConstantVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660395743821</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="UnaryLogicalOperator class created.">
+      <created>1660498733693</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1660498733693</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +380,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First project structure created" />
     <MESSAGE value="class created" />
     <MESSAGE value="ı see my code in console" />
     <MESSAGE value="Selam class created" />
@@ -396,7 +404,8 @@
     <MESSAGE value="FinalVariables class created" />
     <MESSAGE value="ConstantVariable class created" />
     <MESSAGE value="AssignmentOperator class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="AssignmentOperator class created" />
+    <MESSAGE value="UnaryLogicalOperator class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="UnaryLogicalOperator class created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
