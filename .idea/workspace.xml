@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="AssignmentOperator class created">
-      <change afterPath="$PROJECT_DIR$/src/ArithmeticPromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnaryOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Unary Opertors Arithmetic Pormotion class created." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnaryOperators">
+  <component name="RunManager" selected="Application.UnaryLogicalOperator">
     <configuration name="ArithmeticPromotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticPromotion" />
       <module name="Second-Java-Project" />
@@ -84,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalVariables" />
+    <configuration name="UnaryLogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnaryLogicalOperator" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnaryLogicalOperator" />
         <item itemvalue="Application.UnaryOperators" />
         <item itemvalue="Application.ArithmeticPromotion" />
         <item itemvalue="Application.AssignmentOperator" />
         <item itemvalue="Application.ConstantVariable" />
-        <item itemvalue="Application.FinalVariables" />
       </list>
     </recent_temporary>
   </component>
