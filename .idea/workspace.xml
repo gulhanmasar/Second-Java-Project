@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Operators class created.">
-      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="While class created.">
+      <change afterPath="$PROJECT_DIR$/src/ComplexWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,14 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While">
+  <component name="RunManager" selected="Application.ComplexWhile">
+    <configuration name="ComplexWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexWhile" />
+      <module name="Second-Java-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConditionalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalOperator" />
       <module name="Second-Java-Project" />
@@ -71,13 +78,6 @@
     </configuration>
     <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators" />
-      <module name="Second-Java-Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RelationalOperator" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComplexWhile" />
         <item itemvalue="Application.While" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.TernaryOperators" />
         <item itemvalue="Application.ConditionalOperator" />
-        <item itemvalue="Application.RelationalOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660658564769</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="While class created.">
+      <created>1660665939584</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1660665939584</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CarClass created" />
     <MESSAGE value="Working on Comments" />
     <MESSAGE value="Naming class created" />
     <MESSAGE value="ValuesOfExpressions class created" />
@@ -434,7 +440,8 @@
     <MESSAGE value="ConditionalOperator class created." />
     <MESSAGE value="TernaryOperators class created." />
     <MESSAGE value="Operators class created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators class created." />
+    <MESSAGE value="While class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="While class created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
