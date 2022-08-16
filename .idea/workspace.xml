@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="TernaryOperators class created.">
-      <change afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="Operators class created.">
+      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.While">
     <configuration name="ConditionalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalOperator" />
       <module name="Second-Java-Project" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryLogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnaryLogicalOperator" />
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.While" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.TernaryOperators" />
         <item itemvalue="Application.ConditionalOperator" />
         <item itemvalue="Application.RelationalOperator" />
-        <item itemvalue="Application.UnaryLogicalOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660572326394</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Operators class created.">
+      <created>1660658564769</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1660658564769</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SelamTest  class created" />
     <MESSAGE value="CarClass created" />
     <MESSAGE value="Working on Comments" />
     <MESSAGE value="Naming class created" />
@@ -427,7 +433,8 @@
     <MESSAGE value="RelationalOperator class created." />
     <MESSAGE value="ConditionalOperator class created." />
     <MESSAGE value="TernaryOperators class created." />
-    <option name="LAST_COMMIT_MESSAGE" value="TernaryOperators class created." />
+    <MESSAGE value="Operators class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators class created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
