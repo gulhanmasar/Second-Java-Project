@@ -61,7 +61,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListCharacters">
+  <component name="RunManager" selected="Application.ListCharactersWithIf">
     <configuration name="ComplexWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComplexWhile" />
       <module name="Second-Java-Project" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators" />
+    <configuration name="ListCharactersWithIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListCharactersWithIf" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListCharactersWithIf" />
         <item itemvalue="Application.ListCharacters" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.ComplexWhile" />
         <item itemvalue="Application.While" />
-        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
