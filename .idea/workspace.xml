@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="ComplexWhile class created.">
-      <change afterPath="$PROJECT_DIR$/src/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoWhile">
+  <component name="RunManager" selected="Application.ListCharacters">
     <configuration name="ComplexWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComplexWhile" />
       <module name="Second-Java-Project" />
@@ -75,15 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators" />
+    <configuration name="ListCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListCharacters" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TernaryOperators" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators" />
       <module name="Second-Java-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListCharacters" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.ComplexWhile" />
         <item itemvalue="Application.While" />
         <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.TernaryOperators" />
       </list>
     </recent_temporary>
   </component>
