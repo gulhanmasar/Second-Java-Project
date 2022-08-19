@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="ComplexWhile class created.">
-      <change afterPath="$PROJECT_DIR$/src/ListCharacters.java" afterDir="false" />
+    <list default="true" id="7dde54a6-a028-4d39-a596-a81dedc86117" name="Changes" comment="ListCharactersWithIf class created.">
+      <change afterPath="$PROJECT_DIR$/src/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfWithAssignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       <recent name="C:\Users\casper\IdeaProjects\Second-Java-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListCharactersWithIf">
+  <component name="RunManager" selected="Application.IfElseDemo">
     <configuration name="ComplexWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComplexWhile" />
       <module name="Second-Java-Project" />
@@ -72,6 +73,14 @@
     <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoWhile" />
       <module name="Second-Java-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseDemo" />
+      <module name="Second-Java-Project" />
+      <option name="PROGRAM_PARAMETERS" value="90" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,20 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While" />
-      <module name="Second-Java-Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElseDemo" />
         <item itemvalue="Application.ListCharactersWithIf" />
         <item itemvalue="Application.ListCharacters" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.ComplexWhile" />
-        <item itemvalue="Application.While" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +398,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660667043140</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="ListCharacters class created.">
+      <created>1660851886231</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1660851886231</updated>
+    </task>
+    <task id="LOCAL-00042" summary="ListCharactersWithIf class created.">
+      <created>1660852047259</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1660852047259</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,8 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Naming class created" />
-    <MESSAGE value="ValuesOfExpressions class created" />
     <MESSAGE value="Blocks class created" />
     <MESSAGE value="Naming and if else statements" />
     <MESSAGE value="Comments working" />
@@ -448,7 +462,9 @@
     <MESSAGE value="Operators class created." />
     <MESSAGE value="While class created." />
     <MESSAGE value="ComplexWhile class created." />
-    <option name="LAST_COMMIT_MESSAGE" value="ComplexWhile class created." />
+    <MESSAGE value="ListCharacters class created." />
+    <MESSAGE value="ListCharactersWithIf class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="ListCharactersWithIf class created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -460,5 +476,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Second_Java_Project$IfElseDemo.ic" NAME="IfElseDemo Coverage Results" MODIFIED="1660940178950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
